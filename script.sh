@@ -2,4 +2,4 @@
 
 echo "$BUILD_SOURCEBRANCHNAME"
 
-true
+false
