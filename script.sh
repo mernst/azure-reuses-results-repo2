@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "$BUILD_SOURCEBRANCHNAME"
+echo "branch = $BUILD_SOURCEBRANCHNAME"
 
 true
